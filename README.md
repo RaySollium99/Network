@@ -1,2 +1,2 @@
-# Network
-My configurations and plugins for my personal digital network
+# The Sollium Network
+My services, configurations and plugins for my personal digital network
